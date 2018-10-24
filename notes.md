@@ -9,4 +9,3 @@ When a product is built story-by-story, with each story’s implementation fully
 By using stories that make sense to users, developers can steer the project by determining which stories to build next. This greater visibility helps encourage greater participation from users—no longer do they have to wait a year or more to see what the development team’s been up to.
 
 But this chunking has some **negative consequences**.
-
