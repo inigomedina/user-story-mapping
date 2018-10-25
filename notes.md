@@ -80,3 +80,7 @@ I’ve also been brought in to try to help companies that are not doing so well.
 I mean **everything** from how leaders behave to the level of empowerment of teams; to the way teams work together; to how the organization thinks about funding, staffing, and producing products; to the culture; to how product, design, and engineering collaborate to discover effective solutions for their customers.
 
 This book is titled User Story Mapping, but you’ll soon see it is about much more than this powerful yet simple technique. This book gets to the heart about how teams **collaborate**, **communicate**, and ultimately come up with good stuff to **build**.
+
+## Preface
+
+Story mapping keeps us focused on users and their experience, and the result is a better conversation, and ultimately a better product.
