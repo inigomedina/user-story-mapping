@@ -70,3 +70,13 @@ Despite protestations to the contrary, Agile development is not a very useful de
 The conventional corporate world has proven that it is nearly impossible for a team of two or three hundred people to build a product that people love. Meanwhile the startup community has proven that a team of four or five people can build small products that people love, but even these little products eventually grow big and lose their spark.
 
 The only way we are going to build big software that is not a Frankenstein monster is by learning how to integrate the disciplines of software design and development.
+
+## Preface by Marty Cagan
+
+I’ve also been brought in to try to help companies that are not doing so well. Startups racing to get some traction before the money runs out. Larger companies struggling to replicate their early innovation. Teams failing to continuously add value to their business. Leaders frustrated with how long it takes to go from idea to reality. Engineers exasperated with their product owners.
+
+**What I’ve learned is that there is a profound difference between how the very best product companies create technology products, and the rest.**
+
+I mean **everything** from how leaders behave to the level of empowerment of teams; to the way teams work together; to how the organization thinks about funding, staffing, and producing products; to the culture; to how product, design, and engineering collaborate to discover effective solutions for their customers.
+
+This book is titled User Story Mapping, but you’ll soon see it is about much more than this powerful yet simple technique. This book gets to the heart about how teams **collaborate**, **communicate**, and ultimately come up with good stuff to **build**.
